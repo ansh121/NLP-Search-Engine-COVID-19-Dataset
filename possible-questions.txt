@@ -1,0 +1,45 @@
+total number of cases found in Afganistan?
+total number of cases found in Colombia till july?
+total number of new cases found in France in april?
+total number of new cases found in Greece between april to september?
+total number cases recovred in Hungary?
+total number of cases recovred in Iceland till may?
+total number of new cases recovred in Indonesia in may?
+total number of new cases recovred in india from march to december?
+total number of deaths in india?
+total number of deaths in china till august?
+total number of deaths in US in august?
+total number of deaths in poland between august and december?
+country having maximum number of deaths?
+country having maximum number of deaths till june?
+country having maximum number of recovery cases?
+country having maximum number of recovery cases till july?
+country having maximum number of cases?
+state having maximum number of cases till september in US?
+state having maximum number of deaths in US?
+state having maximum number of deaths till june in Australia?
+state having maximum number of recovery cases in US?
+state having maximum number of recovery cases till july in Canada?
+state having maximum number of cases in China?
+state having maximum number of cases till september in Netherlands?
+what are the total number of covid cases found in the world till september?
+what is the maximum increase rate found till now?
+total number of cases found in world?
+total number of cases found in world till july?
+total number of new cases found in world in april?
+total number of new cases found in world between april to september?
+total number cases recovred in world?
+total number of cases recovred in world till may?
+total number of new cases recovred in world in may?
+total number of new cases recovred in world from march to december?
+total number of deaths in world?
+total number of deaths in world till august?
+total number of deaths in world in august?
+total number of deaths in world between august and december?
+In which month maximum number of cases were found in world?
+what is the maximum increase rate found till between july to decemer?
+In which month maximum number of cases were recovered in world?
+In which month maximum number of deaths were found in world?
+
+
+

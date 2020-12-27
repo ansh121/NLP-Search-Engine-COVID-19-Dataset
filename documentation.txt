@@ -1,0 +1,24 @@
+Entity Tags:
+    1) Case Type:
+        (i) Death (or Fatalities)
+        (ii) Recovered (or survived, recovery)
+        (iii) Active
+        (iv) Total (default)
+    2) Operation:
+        (i) Maximum
+        (ii) Minimum
+        (iii) Sum
+    3) Duration:
+        (i) Single Day
+        (ii) Single month
+        (iii) Single Year
+        (iv) Multiple Days
+        (v) Multiple Months
+        (vi) Multiple years
+        (vii) Total (default)
+    4) Place:
+        (i) state
+        (ii) country
+        (iii) world (default)
+
+ 
