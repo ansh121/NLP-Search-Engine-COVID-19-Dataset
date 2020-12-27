@@ -9,7 +9,7 @@ Entity Tags:
         I) To find number of cases:
             (i) Maximum
             (ii) Minimum
-            (iii) Sum
+            (iii) Average
         II) To find places:
     3) Duration:
         (i) Single Day
