@@ -3,7 +3,8 @@ Entity Tags:
         (i) Death (or Fatalities)
         (ii) Recovered (or survived, recovery)
         (iii) Active
-        (iv) confirmed (default)
+        (iv) confirmed 
+        (v) all (default)
     2) Operation:
         I) To find number of cases:
             (i) Maximum

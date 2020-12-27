@@ -2,10 +2,10 @@ total number of cases found in Afganistan?
 total number of cases found in Colombia till july?
 total number of new cases found in France in april?
 total number of new cases found in Greece between april to september?
-total number cases recovred in Hungary?
-total number of cases recovred in Iceland till may?
-total number of new cases recovred in Indonesia in may?
-total number of new cases recovred in india from march to december?
+total number cases recovered in Hungary?
+total number of cases recovered in Iceland till May?
+total number of new cases recovered in Indonesia in May?
+total number of new cases recovered in india from March to December?
 total number of deaths in india?
 total number of deaths in china till august?
 total number of deaths in US in august?
@@ -19,9 +19,9 @@ state having maximum number of cases till september in US?
 state having maximum number of deaths in US?
 state having maximum number of deaths till june in Australia?
 state having maximum number of recovery cases in US?
-state having maximum number of recovery cases till july in Canada?
+state having maximum number of recovery cases till July in Canada?
 state having maximum number of cases in China?
-state having maximum number of cases till september in Netherlands?
+state having maximum number of cases till September in Netherlands?
 what are the total number of covid cases found in the world till september?
 what is the maximum increase rate found till now?
 total number of cases found in world?
