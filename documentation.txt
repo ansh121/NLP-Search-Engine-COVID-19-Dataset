@@ -3,11 +3,13 @@ Entity Tags:
         (i) Death (or Fatalities)
         (ii) Recovered (or survived, recovery)
         (iii) Active
-        (iv) Total (default)
+        (iv) confirmed (default)
     2) Operation:
-        (i) Maximum
-        (ii) Minimum
-        (iii) Sum
+        I) To find number of cases:
+            (i) Maximum
+            (ii) Minimum
+            (iii) Sum
+        II) To find places:
     3) Duration:
         (i) Single Day
         (ii) Single month
