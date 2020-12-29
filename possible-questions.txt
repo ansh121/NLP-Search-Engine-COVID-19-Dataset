@@ -40,6 +40,7 @@ In which month maximum number of cases were found in world?
 what is the maximum increase rate found till between july to decemer?
 In which month maximum number of cases were recovered in world?
 In which month maximum number of deaths were found in world?
-
-
+Total number of cases in India till now?
+Total number of cases in India last month?
+Total number of cases in India on 23rd march?
 
