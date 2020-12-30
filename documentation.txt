@@ -1,17 +1,17 @@
 Entity Tags:
-    1) Case Type:
+    1) Case Type :
         (i) Death (or Fatalities)
         (ii) Recovered (or survived, recovery)
         (iii) Active
         (iv) confirmed (default)
-    2) Operation:
+    2) Function :
         I) To find number of cases:
             (i) Maximum
             (ii) Minimum
             (iii) Average
             (iv) sum (default)
         II) To find places:
-    3) Duration:
+    3) Duration :
         (i) Single Day
         (ii) Single month
         (iii) Single Year
@@ -19,9 +19,13 @@ Entity Tags:
         (v) Multiple Months
         (vi) Multiple years
         (vii) Total (default)
-    4) Place:
+    4) Place :
         (i) state
         (ii) country
         (iii) world (default)
+    5) Operation :
+        (i) state
+        (ii) country
+        (iii) cases
 
  
