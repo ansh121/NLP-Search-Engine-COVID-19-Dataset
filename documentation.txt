@@ -4,6 +4,7 @@ Entity Tags:
         (ii) Recovered (or survived, recovery)
         (iii) Active
         (iv) confirmed (default)
+        (v) increase rate
     2) Function :
         I) To find number of cases:
             (i) Maximum
@@ -12,13 +13,7 @@ Entity Tags:
             (iv) sum (default)
         II) To find places:
     3) Duration :
-        (i) Single Day
-        (ii) Single month
-        (iii) Single Year
-        (iv) Multiple Days
-        (v) Multiple Months
-        (vi) Multiple years
-        (vii) Total (default)
+        (i) Interval (only)
     4) Place :
         (i) state
         (ii) country
