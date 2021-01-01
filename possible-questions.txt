@@ -1,3 +1,49 @@
+Which country was last to be affected by virus?
+Which country was first to reach 1lakh cases?
+Which country was first to reach 50000 deaths?
+Which country was slowest to reach 1000 deaths?
+Country having maximum number of active cases till now?
+Country having minimum number of death ratio.
+Country having minimum number of death ratio till september.
+Country having minimum number of death ratio till between may and august.
+State having minimum number of death ratio.
+State having minimum number of death ratio till september.
+State having minimum number of death ratio till between may and august.
+Which month saw the highest increase rate?
+Which month after June saw the highest increase rate?
+Which month between September and December saw the highest increase rate?
+In which month maximum number of new cases were found?
+Which country saw highest number of death in the month of April?
+Which country saw highest number of death between April to August?
+Which day saw the highest increase in number of cases in the world?
+Which day saw the highest increase in number of deaths in the world?
+Which day saw the highest increase in number of new cases in the world?
+Average number of deaths per day till now? 
+In which month maximum number of new cases were found in world?
+State having maximum number of active cases in USA till now?
+Country having minimum number of recovery ratio till April?
+Country having minimum number of recovery ratio between June to october?
+Country having maximum number of new cases in May?
+Which country registered highest cases in April 2020?
+Which country registered highest percentage of population being affected?
+Which country has highest number of deaths registered?
+Which country has lowest number of deaths registered in the month of May 2020?
+Which country has the best recovery rate?
+Which country has the highest recovered population?
+Which country has lost most of their population to COVID?
+Which country saw the highest jump in confirmed cases between May and June 2020?
+Which month saw the lowest recorded confirmed cases?
+When did the highest number of cases were registered?
+When did most people die because of COVID?
+Which state of US was worst affected?
+Which state recorded the lowest deaths?
+Which month saw the highest rise in confirmed cases?
+On which day, the confirmed cases increased the most?
+On which day, lowest deaths occured?
+What is the total number of confirmed cases in the upper hemisphere?
+What percentage of the total population was affected by COVID?
+How many people died due to COVID?
+What is the overall recovery rate?
 Recovery cases in Bombay, India?
 which country has the highest number of cases in a single state?
 which place has the highest number of cases in US?
